@@ -9,5 +9,5 @@
 
 <br>
 
-* StringBuffer, BufferedReader 사용법 후에 정리할 것
-* Scanner.next(), Scanner.nextLine()
+	- StringBuffer, BufferedReader 사용법 후에 정리할 것
+	- Scanner.next(), Scanner.nextLine()
